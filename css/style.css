@@ -82,3 +82,12 @@ body {
         align-items: flex-start;
     }
 }
+
+.hidden {
+    display: none;
+}
+
+#historyBtn {
+    grid-row: 1 / span 1;
+    grid-column: 1 / span 4;
+}
